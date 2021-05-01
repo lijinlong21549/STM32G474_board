@@ -1,0 +1,2150 @@
+Added Component: Designator=C1(C 0805_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "22uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（10%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL21A226KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C296720"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C 0805_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "muRata(村田)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "GRM21BR61H106KE43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C 0603_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "3.3nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（5%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402JRX7R9BB332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C541447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C 0805_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "22uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（10%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL21A226KOQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C296720"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(C 0805_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "muRata(村田)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "GRM21BR61H106KE43L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C440198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(C 0603_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "3.3nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（5%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402JRX7R9BB332"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C541447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "1uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（5%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL05A105KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C29266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C14(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C15(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C16(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C17(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C18(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C19(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "1uF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（5%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL05A105KO5NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C29266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C20(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C21(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C22(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "20pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402FRNPO9BN200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C327010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C23(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "20pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402FRNPO9BN200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C327010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "10nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C327009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "10nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C327009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "7pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402CRNPO9BN7R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C260628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C27(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "7pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402CRNPO9BN7R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C260628"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C28(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "10nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C327009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C29(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C30(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "7pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "0402CG7R0C500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1577"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C31(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "7pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "0402CG7R0C500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1577"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C32(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "7pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±0.25pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "FH(风华)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "0402CG7R0C500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1577"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100nF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "SAMSUNG(三星)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CL10B104KB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C1590"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "330pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R9BB331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C106206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(C 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "330pF/50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "陶瓷电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "X7R（15%）"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YAGEO(国巨)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "CC0402KRX7R9BB331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C106206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(BAT54KFILM)
+Add component (AddParameter): Name = "主类型"; Value = "二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "SOD-523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "ST(意法半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C283259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(ESDA25P35-1U1M)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F1(FU 0603)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP1(HDR2.54-LI-2x20P)
+Add component (AddParameter): Name = "BOM名称"; Value = "20*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(HDR2.54-LI-2x20P)
+Add component (AddParameter): Name = "BOM名称"; Value = "20*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(HDR2.54-WI-4P)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP4(HDR2.54-LI-2x4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=JP5(HDR2.54-LI-2x4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Component: Designator=L1(电感XFL4020)
+Add component (AddParameter): Name = "主类型"; Value = "电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "XFL4020-222MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "4020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "功率电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "XFL4020-222MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "https://detail.tmall.com/item.htm?spm=a230r.1.14.16.717a6f292tX0SR&id=619184428761&ns=1&abbucket=12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = "淘宝采购"; VariantName = "[No Variations]"
+Added Component: Designator=L2(电感XFL4020)
+Add component (AddParameter): Name = "主类型"; Value = "电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "XFL4020-222MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "4020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "功率电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "XFL4020-222MEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "https://detail.tmall.com/item.htm?spm=a230r.1.14.16.717a6f292tX0SR&id=619184428761&ns=1&abbucket=12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = "淘宝采购"; VariantName = "[No Variations]"
+Added Component: Designator=L3(L 0603)
+Add component (AddParameter): Name = "主类型"; Value = "电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "磁珠"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "台庆"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C141723"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L4(L 0603)
+Add component (AddParameter): Name = "主类型"; Value = "电感"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "磁珠"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "台庆"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "FCM1608KF-601T03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C141723"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED 0603B)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(STL11N3LLH6)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "100K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "±100ppm/℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RC0402FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C60491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R21(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R22(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R23(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R24(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R25(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R26(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R27(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R30(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R31(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R32(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R33(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R34(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R35(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R36(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R37(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R38(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R39(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R40(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R41(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R42(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R43(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R44(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R45(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R46(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R47(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R48(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R49(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R50(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R51(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = "电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "15K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = "50ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "国巨"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "RT0402FRE0715KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C136975"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R52(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R53(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R54(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R55(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(按钮)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW2(按钮)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW3(按钮)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TEST 1.2)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TEST 1.2)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TEST 1.2)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TEST 1.2)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFN16)
+Add component (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(QFN16)
+Add component (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3()
+Added Component: Designator=U4(SOP8)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5()
+Added Component: Designator=U6(TCPP01-M12)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(ECMF02-2AMX6)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB1(Type-c接口)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB2(Type-c接口)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(OSC 3225-4P)
+Add component (AddParameter): Name = "主类型"; Value = "晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "24M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "20PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "无源晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40℃~85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "YXC扬兴科技"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "X322524MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C15643"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X2(OSC 3215-2P)
+Add component (AddParameter): Name = "主类型"; Value = "晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "32.768K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = "10PPM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "3215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "无源晶振"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = "-40℃ ~ +85℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "EPSON(爱普生)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "Q13FC1350000200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C48615"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C15-2
+Added Pin To Net: NetName=3V3 Pin=C16-2
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=C25-2
+Added Pin To Net: NetName=3V3 Pin=C29-2
+Added Pin To Net: NetName=3V3 Pin=C30-2
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=3V3 Pin=C32-2
+Added Pin To Net: NetName=3V3 Pin=JP3-4
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=3V3 Pin=L3-1
+Added Pin To Net: NetName=3V3 Pin=LED1-1
+Added Pin To Net: NetName=3V3 Pin=LED2-1
+Added Pin To Net: NetName=3V3 Pin=LED3-1
+Added Pin To Net: NetName=3V3 Pin=LED4-1
+Added Pin To Net: NetName=3V3 Pin=LED7-1
+Added Pin To Net: NetName=3V3 Pin=LED8-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=3V3 Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R27-2
+Added Pin To Net: NetName=3V3 Pin=R28-1
+Added Pin To Net: NetName=3V3 Pin=R42-2
+Added Pin To Net: NetName=3V3 Pin=SW2-2
+Added Pin To Net: NetName=3V3 Pin=TP3-1
+Added Pin To Net: NetName=3V3 Pin=U1-14
+Added Pin To Net: NetName=3V3 Pin=U4-8
+Added Pin To Net: NetName=3V3 Pin=U6-12
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V_IN Pin=C5-1
+Added Pin To Net: NetName=5V_IN Pin=F1-1
+Added Pin To Net: NetName=5V_IN Pin=L2-2
+Added Pin To Net: NetName=5V_IN Pin=R3-1
+Added Pin To Net: NetName=5V_IN Pin=U2-14
+Added Pin To Net: NetName=5V_IN Pin=USB1-A4
+Added Pin To Net: NetName=5V_IN Pin=USB1-A9
+Added Pin To Net: NetName=5V_IN Pin=USB1-B4
+Added Pin To Net: NetName=5V_IN Pin=USB1-B9
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=5V Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=5V Pin=F1-2
+Added Pin To Net: NetName=5V Pin=U1-10
+Added Pin To Net: NetName=5V Pin=U1-11
+Added Pin To Net: NetName=5V Pin=U1-12
+Added Pin To Net: NetName=5V Pin=U1-13
+Added Net: Name=5V
+Added Pin To Net: NetName=ADC_VBUS Pin=R52-1
+Added Pin To Net: NetName=ADC_VBUS Pin=R53-2
+Added Net: Name=ADC_VBUS
+Added Pin To Net: NetName=BOOT0 Pin=R15-2
+Added Pin To Net: NetName=BOOT0 Pin=R16-2
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=CC1_IN Pin=C34-2
+Added Pin To Net: NetName=CC1_IN Pin=R48-2
+Added Pin To Net: NetName=CC1_IN Pin=USB2-A5
+Added Net: Name=CC1_IN
+Added Pin To Net: NetName=CC2_IN Pin=C35-2
+Added Pin To Net: NetName=CC2_IN Pin=R50-2
+Added Pin To Net: NetName=CC2_IN Pin=USB2-B5
+Added Net: Name=CC2_IN
+Added Pin To Net: NetName=DEBUG_RXD Pin=R14-2
+Added Net: Name=DEBUG_RXD
+Added Pin To Net: NetName=DEBUG_TXD Pin=R13-2
+Added Net: Name=DEBUG_TXD
+Added Pin To Net: NetName=DP_DB Pin=R46-2
+Added Net: Name=DP_DB
+Added Pin To Net: NetName=DP_FLT Pin=R45-2
+Added Net: Name=DP_FLT
+Added Pin To Net: NetName=GATE Pin=Q1-1
+Added Pin To Net: NetName=GATE Pin=U6-5
+Added Net: Name=GATE
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R51-1
+Added Pin To Net: NetName=GND Pin=R52-2
+Added Pin To Net: NetName=GND Pin=R55-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=USB1-A1
+Added Pin To Net: NetName=GND Pin=USB1-A12
+Added Pin To Net: NetName=GND Pin=USB1-B1
+Added Pin To Net: NetName=GND Pin=USB1-B12
+Added Pin To Net: NetName=GND Pin=USB2-A1
+Added Pin To Net: NetName=GND Pin=USB2-A12
+Added Pin To Net: NetName=GND Pin=USB2-B1
+Added Pin To Net: NetName=GND Pin=USB2-B12
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=JTCK Pin=R18-2
+Added Pin To Net: NetName=JTCK Pin=R29-1
+Added Net: Name=JTCK
+Added Pin To Net: NetName=JTMS Pin=R17-2
+Added Pin To Net: NetName=JTMS Pin=R30-1
+Added Net: Name=JTMS
+Added Pin To Net: NetName=KEY1 Pin=C28-1
+Added Pin To Net: NetName=KEY1 Pin=R8-1
+Added Pin To Net: NetName=KEY1 Pin=SW3-1
+Added Net: Name=KEY1
+Added Pin To Net: NetName=LED1 Pin=LED6-1
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=LED5-1
+Added Net: Name=LED2
+Added Pin To Net: NetName=LED_G Pin=R9-1
+Added Net: Name=LED_G
+Added Pin To Net: NetName=LED_R Pin=R10-1
+Added Net: Name=LED_R
+Added Pin To Net: NetName=MCU-BOOT0 Pin=C25-1
+Added Pin To Net: NetName=MCU-BOOT0 Pin=R7-1
+Added Pin To Net: NetName=MCU-BOOT0 Pin=SW2-1
+Added Net: Name=MCU-BOOT0
+Added Pin To Net: NetName=MCU-NRST Pin=C24-1
+Added Pin To Net: NetName=MCU-NRST Pin=R6-1
+Added Pin To Net: NetName=MCU-NRST Pin=R19-2
+Added Pin To Net: NetName=MCU-NRST Pin=SW1-1
+Added Net: Name=MCU-NRST
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-9
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U2-9
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=L4-1
+Added Pin To Net: NetName=NetC18_2 Pin=R4-2
+Added Pin To Net: NetName=NetC18_2 Pin=R5-2
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=C20-2
+Added Pin To Net: NetName=NetC19_1 Pin=C21-2
+Added Pin To Net: NetName=NetC19_1 Pin=L4-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC33_2 Pin=C33-2
+Added Pin To Net: NetName=NetC33_2 Pin=D1-2
+Added Pin To Net: NetName=NetC33_2 Pin=U6-8
+Added Net: Name=NetC33_2
+Added Pin To Net: NetName=NetJP3_2 Pin=JP3-2
+Added Pin To Net: NetName=NetJP3_2 Pin=R29-2
+Added Net: Name=NetJP3_2
+Added Pin To Net: NetName=NetJP3_3 Pin=JP3-3
+Added Pin To Net: NetName=NetJP3_3 Pin=R30-2
+Added Net: Name=NetJP3_3
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-2
+Added Pin To Net: NetName=NetL1_1 Pin=U1-3
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-1
+Added Pin To Net: NetName=NetL2_1 Pin=U2-2
+Added Pin To Net: NetName=NetL2_1 Pin=U2-3
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Net: Name=NetL3_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R9-2
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R10-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R23-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R24-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R25-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R20-2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R26-2
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R51-2
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-4
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U4-6
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Net: Name=NetR28_2
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR31_2 Pin=USB1-A5
+Added Net: Name=NetR31_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=USB1-B5
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR33_2 Pin=R34-1
+Added Net: Name=NetR33_2
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR35_2 Pin=R36-1
+Added Net: Name=NetR35_2
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR37_2 Pin=R38-1
+Added Net: Name=NetR37_2
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=R40-1
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=R45-1
+Added Pin To Net: NetName=NetR42_1 Pin=U6-11
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=R44-1
+Added Net: Name=NetR43_2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=U6-10
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR47_2 Pin=U6-3
+Added Net: Name=NetR47_2
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=U6-7
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR49_2 Pin=U6-1
+Added Net: Name=NetR49_2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U6-9
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR54_2 Pin=R54-2
+Added Pin To Net: NetName=NetR54_2 Pin=R55-2
+Added Pin To Net: NetName=NetR54_2 Pin=U2-13
+Added Net: Name=NetR54_2
+Added Net: Name=NetU5_5
+Added Net: Name=NetU5_6
+Added Pin To Net: NetName=OSC32_IN Pin=C26-2
+Added Pin To Net: NetName=OSC32_IN Pin=X2-2
+Added Net: Name=OSC32_IN
+Added Pin To Net: NetName=OSC32_OUT Pin=C27-2
+Added Pin To Net: NetName=OSC32_OUT Pin=X2-1
+Added Net: Name=OSC32_OUT
+Added Pin To Net: NetName=OSC_IN Pin=C22-2
+Added Pin To Net: NetName=OSC_IN Pin=X1-1
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C23-2
+Added Pin To Net: NetName=OSC_OUT Pin=X1-3
+Added Net: Name=OSC_OUT
+Added Net: Name=PA0
+Added Net: Name=PA1
+Added Net: Name=PA2
+Added Net: Name=PA3
+Added Net: Name=PA4
+Added Net: Name=PA5
+Added Net: Name=PA6
+Added Net: Name=PA7
+Added Net: Name=PA8
+Added Net: Name=PA9
+Added Net: Name=PA10
+Added Net: Name=PA11
+Added Net: Name=PA12
+Added Net: Name=PA13
+Added Net: Name=PB0
+Added Net: Name=PB1
+Added Net: Name=PB2
+Added Net: Name=PB3
+Added Net: Name=PB4
+Added Net: Name=PB5
+Added Net: Name=PB6
+Added Net: Name=PB7
+Added Net: Name=PB9
+Added Net: Name=PB10
+Added Net: Name=PB11
+Added Net: Name=PB12
+Added Net: Name=PB13
+Added Net: Name=PB14
+Added Net: Name=PB15
+Added Net: Name=PC0
+Added Net: Name=PC1
+Added Net: Name=PC2
+Added Net: Name=PC3
+Added Net: Name=PC4
+Added Net: Name=PC5
+Added Net: Name=PC6
+Added Net: Name=PC7
+Added Net: Name=PC8
+Added Net: Name=PC9
+Added Net: Name=PC10
+Added Net: Name=PC11
+Added Net: Name=PC12
+Added Net: Name=PC13
+Added Net: Name=PD0
+Added Net: Name=PD1
+Added Net: Name=PD2
+Added Net: Name=PD3
+Added Net: Name=PD4
+Added Net: Name=PD5
+Added Net: Name=PD6
+Added Net: Name=PD7
+Added Net: Name=PD8
+Added Net: Name=PD9
+Added Net: Name=PD10
+Added Net: Name=PD11
+Added Net: Name=PD12
+Added Net: Name=PD13
+Added Net: Name=PD14
+Added Net: Name=PD15
+Added Net: Name=PE0
+Added Net: Name=PE1
+Added Net: Name=PE2
+Added Net: Name=PE3
+Added Net: Name=PE4
+Added Net: Name=PE5
+Added Net: Name=PE6
+Added Net: Name=PE7
+Added Net: Name=PE8
+Added Net: Name=PE9
+Added Net: Name=PF2
+Added Net: Name=PF3
+Added Net: Name=PF4
+Added Net: Name=PF5
+Added Net: Name=PF6
+Added Net: Name=PF7
+Added Net: Name=PF8
+Added Net: Name=PF9
+Added Net: Name=PF10
+Added Net: Name=PF11
+Added Net: Name=PF12
+Added Net: Name=PF13
+Added Net: Name=PF14
+Added Net: Name=PF15
+Added Net: Name=PG0
+Added Net: Name=PG1
+Added Net: Name=PG2
+Added Net: Name=PG3
+Added Net: Name=PG4
+Added Net: Name=PG5
+Added Net: Name=PG6
+Added Net: Name=PG7
+Added Net: Name=PG8
+Added Net: Name=PG9
+Added Pin To Net: NetName=QSPI_CLK Pin=R12-1
+Added Net: Name=QSPI_CLK
+Added Pin To Net: NetName=QSPI_CS Pin=R11-2
+Added Pin To Net: NetName=QSPI_CS Pin=U4-1
+Added Net: Name=QSPI_CS
+Added Pin To Net: NetName=QSPI_IO0 Pin=U4-5
+Added Net: Name=QSPI_IO0
+Added Pin To Net: NetName=QSPI_IO1 Pin=U4-2
+Added Net: Name=QSPI_IO1
+Added Pin To Net: NetName=QSPI_IO2 Pin=U4-3
+Added Net: Name=QSPI_IO2
+Added Pin To Net: NetName=QSPI_IO3 Pin=U4-7
+Added Net: Name=QSPI_IO3
+Added Pin To Net: NetName=SENSE Pin=R34-2
+Added Pin To Net: NetName=SENSE Pin=R36-2
+Added Pin To Net: NetName=SENSE Pin=R38-2
+Added Pin To Net: NetName=SENSE Pin=R40-2
+Added Pin To Net: NetName=SENSE Pin=R41-1
+Added Pin To Net: NetName=SENSE Pin=R44-2
+Added Pin To Net: NetName=SENSE Pin=U6-6
+Added Net: Name=SENSE
+Added Pin To Net: NetName=ST_RX Pin=R13-1
+Added Pin To Net: NetName=ST_RX Pin=R26-1
+Added Net: Name=ST_RX
+Added Pin To Net: NetName=ST_SWCLK Pin=TP2-1
+Added Net: Name=ST_SWCLK
+Added Pin To Net: NetName=ST_SWDIO Pin=TP1-1
+Added Net: Name=ST_SWDIO
+Added Pin To Net: NetName=ST_TX Pin=R14-1
+Added Pin To Net: NetName=ST_TX Pin=R20-1
+Added Net: Name=ST_TX
+Added Pin To Net: NetName=USB_N Pin=R21-2
+Added Pin To Net: NetName=USB_N Pin=U7-5
+Added Pin To Net: NetName=USB_N Pin=USB1-A7
+Added Pin To Net: NetName=USB_N Pin=USB1-B7
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_PD_CC1 Pin=R47-1
+Added Net: Name=USB_PD_CC1
+Added Pin To Net: NetName=USB_PD_CC2 Pin=R49-1
+Added Net: Name=USB_PD_CC2
+Added Pin To Net: NetName=USB_PD_N Pin=U7-2
+Added Pin To Net: NetName=USB_PD_N Pin=USB2-A7
+Added Pin To Net: NetName=USB_PD_N Pin=USB2-B7
+Added Net: Name=USB_PD_N
+Added Pin To Net: NetName=USB_PD_P Pin=U7-1
+Added Pin To Net: NetName=USB_PD_P Pin=USB2-A6
+Added Pin To Net: NetName=USB_PD_P Pin=USB2-B6
+Added Net: Name=USB_PD_P
+Added Pin To Net: NetName=USB_P Pin=R22-2
+Added Pin To Net: NetName=USB_P Pin=R27-1
+Added Pin To Net: NetName=USB_P Pin=U7-6
+Added Pin To Net: NetName=USB_P Pin=USB1-A6
+Added Pin To Net: NetName=USB_P Pin=USB1-B6
+Added Net: Name=USB_P
+Added Pin To Net: NetName=VCC_DP_IN Pin=D1-1
+Added Pin To Net: NetName=VCC_DP_IN Pin=D2-2
+Added Pin To Net: NetName=VCC_DP_IN Pin=LED9-1
+Added Pin To Net: NetName=VCC_DP_IN Pin=Q1-3
+Added Pin To Net: NetName=VCC_DP_IN Pin=Q1-3
+Added Pin To Net: NetName=VCC_DP_IN Pin=Q1-3
+Added Pin To Net: NetName=VCC_DP_IN Pin=R41-2
+Added Pin To Net: NetName=VCC_DP_IN Pin=USB2-A4
+Added Pin To Net: NetName=VCC_DP_IN Pin=USB2-A9
+Added Pin To Net: NetName=VCC_DP_IN Pin=USB2-B4
+Added Pin To Net: NetName=VCC_DP_IN Pin=USB2-B9
+Added Net: Name=VCC_DP_IN
+Added Pin To Net: NetName=VCC_DP_OUT Pin=C6-2
+Added Pin To Net: NetName=VCC_DP_OUT Pin=C7-2
+Added Pin To Net: NetName=VCC_DP_OUT Pin=Q1-2
+Added Pin To Net: NetName=VCC_DP_OUT Pin=Q1-2
+Added Pin To Net: NetName=VCC_DP_OUT Pin=Q1-2
+Added Pin To Net: NetName=VCC_DP_OUT Pin=R53-1
+Added Pin To Net: NetName=VCC_DP_OUT Pin=R54-1
+Added Pin To Net: NetName=VCC_DP_OUT Pin=U2-10
+Added Pin To Net: NetName=VCC_DP_OUT Pin=U2-11
+Added Pin To Net: NetName=VCC_DP_OUT Pin=U2-12
+Added Pin To Net: NetName=VCC_DP_OUT Pin=U6-4
+Added Net: Name=VCC_DP_OUT
+Added Pin To Net: NetName=VREFP Pin=R4-1
+Added Net: Name=VREFP
+Added Class: Name=Debug
+Added Class: Name=Main
+Added Class: Name=PD_USB
+Added Class: Name=POW_MCU
+Added Class: Name=POW
+Added Differential Pair: Name=USB_PD
+Added Differential Pair: Name=USB
+Added Room: Name=Debug
+Added Room: Name=Main
+Added Room: Name=PD_USB
+Added Room: Name=POW
+Added Room: Name=POW_MCU

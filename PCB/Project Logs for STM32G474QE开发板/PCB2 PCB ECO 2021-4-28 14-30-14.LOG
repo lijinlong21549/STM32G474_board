@@ -1,0 +1,28 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "QFN16"; UniqueID = "\CTEFONFB" ("\CTEFONFB")
+Change component parameters (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "QFN16"; UniqueID = "\JTNPXXMG" ("\JTNPXXMG")
+Change component parameters (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3()
+Added Component: Designator=U5()

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=SENSE Pin=R36-2
+Removed Pin From Net: NetName=GND Pin=R37-1
+Removed Pin From Net: NetName=SENSE Pin=R38-2
+Removed Pin From Net: NetName=GND Pin=R39-1
+Removed Pin From Net: NetName=SENSE Pin=R40-2
+Removed Pin From Net: NetName=GND Pin=R43-1
+Removed Pin From Net: NetName=SENSE Pin=R44-2
+Removed Member From Class: ClassName=PD_USB Member=R35
+Removed Member From Class: ClassName=PD_USB Member=R36
+Removed Member From Class: ClassName=PD_USB Member=R37
+Removed Member From Class: ClassName=PD_USB Member=R38
+Removed Member From Class: ClassName=PD_USB Member=R39
+Removed Member From Class: ClassName=PD_USB Member=R40
+Removed Member From Class: ClassName=PD_USB Member=R43
+Removed Member From Class: ClassName=PD_USB Member=R44

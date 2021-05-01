@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=USB_N Pin=U3-92
+Added Pin To Net: NetName=USB_P Pin=U3-93
+Added Differential Pair: Name=USB

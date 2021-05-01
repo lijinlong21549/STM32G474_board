@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Debug.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Debug.SchDoc|FileName=Main.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Debug.SchDoc|FileName=PD_USB.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Debug.SchDoc|FileName=POW.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Debug.SchDoc|FileName=POW_MCU.SchDoc|SheetNumber=2

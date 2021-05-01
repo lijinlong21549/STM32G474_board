@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SENSE Pin=R34-2
+Removed Member From Class: ClassName=PD_USB Member=R34
+Added Pin To Net: NetName=SENSE Pin=R33-2

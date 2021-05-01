@@ -1,0 +1,126 @@
+Change component parameters: Designator = "U1" ("U1"); Footprint = "QFN16"; UniqueID = "\CTEFONFB" ("\CTEFONFB")
+Change component parameters (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "QFN16"; UniqueID = "\JTNPXXMG" ("\JTNPXXMG")
+Change component parameters (AddParameter): Name = "主类型"; Value = "线性稳压器"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值/型号"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "元件封装"; Value = " VQFN-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "具体类型"; Value = "LDO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "温度范围"; Value = "-40-85"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商"; Value = "TI(德州仪器)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "生产商零件编码"; Value = "TPS62133RGTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "立创编号"; Value = "C73973"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=JP1-1
+Added Pin To Net: NetName=3V3 Pin=JP1-2
+Added Pin To Net: NetName=PG1 Pin=JP1-3
+Added Pin To Net: NetName=PG0 Pin=JP1-4
+Added Pin To Net: NetName=PC7 Pin=JP1-5
+Added Pin To Net: NetName=PC6 Pin=JP1-6
+Added Pin To Net: NetName=PD14 Pin=JP1-7
+Added Pin To Net: NetName=PD13 Pin=JP1-8
+Added Pin To Net: NetName=PD12 Pin=JP1-9
+Added Pin To Net: NetName=PD11 Pin=JP1-10
+Added Pin To Net: NetName=PD10 Pin=JP1-11
+Added Pin To Net: NetName=PD9 Pin=JP1-12
+Added Pin To Net: NetName=PD15 Pin=JP1-13
+Added Pin To Net: NetName=PB15 Pin=JP1-14
+Added Pin To Net: NetName=PD8 Pin=JP1-15
+Added Pin To Net: NetName=PB13 Pin=JP1-16
+Added Pin To Net: NetName=PB10 Pin=JP1-17
+Added Pin To Net: NetName=PB12 Pin=JP1-18
+Added Pin To Net: NetName=DP_FLT Pin=JP1-19
+Added Pin To Net: NetName=PB14 Pin=JP1-20
+Added Pin To Net: NetName=PE9 Pin=JP1-21
+Added Pin To Net: NetName=PE8 Pin=JP1-22
+Added Pin To Net: NetName=PE7 Pin=JP1-23
+Added Pin To Net: NetName=PF15 Pin=JP1-24
+Added Pin To Net: NetName=PF14 Pin=JP1-25
+Added Pin To Net: NetName=PF13 Pin=JP1-26
+Added Pin To Net: NetName=PF12 Pin=JP1-27
+Added Pin To Net: NetName=PF11 Pin=JP1-28
+Added Pin To Net: NetName=PB2 Pin=JP1-29
+Added Pin To Net: NetName=DP_DB Pin=JP1-30
+Added Pin To Net: NetName=ADC_VBUS Pin=JP1-31
+Added Pin To Net: NetName=PC5 Pin=JP1-32
+Added Pin To Net: NetName=PA7 Pin=JP1-33
+Added Pin To Net: NetName=PC4 Pin=JP1-34
+Added Pin To Net: NetName=PF2 Pin=JP1-35
+Added Pin To Net: NetName=PA1 Pin=JP1-36
+Added Pin To Net: NetName=PA0 Pin=JP1-37
+Added Pin To Net: NetName=PA2 Pin=JP1-38
+Added Pin To Net: NetName=PA6 Pin=JP1-39
+Added Pin To Net: NetName=PA5 Pin=JP1-40
+Added Pin To Net: NetName=5V Pin=JP2-1
+Added Pin To Net: NetName=VCC_DP_OUT Pin=JP2-2
+Added Pin To Net: NetName=5V Pin=JP2-3
+Added Pin To Net: NetName=GND Pin=JP2-4
+Added Pin To Net: NetName=PC10 Pin=JP2-5
+Added Pin To Net: NetName=PF6 Pin=JP2-6
+Added Pin To Net: NetName=PC12 Pin=JP2-7
+Added Pin To Net: NetName=PC11 Pin=JP2-8
+Added Pin To Net: NetName=PG6 Pin=JP2-9
+Added Pin To Net: NetName=PG5 Pin=JP2-10
+Added Pin To Net: NetName=PG8 Pin=JP2-11
+Added Pin To Net: NetName=PG7 Pin=JP2-12
+Added Pin To Net: NetName=PD0 Pin=JP2-13
+Added Pin To Net: NetName=PG9 Pin=JP2-14
+Added Pin To Net: NetName=PA8 Pin=JP2-15
+Added Pin To Net: NetName=PA13 Pin=JP2-16
+Added Pin To Net: NetName=PC8 Pin=JP2-17
+Added Pin To Net: NetName=PC9 Pin=JP2-18
+Added Pin To Net: NetName=PG3 Pin=JP2-19
+Added Pin To Net: NetName=PG4 Pin=JP2-20
+Added Pin To Net: NetName=PD2 Pin=JP2-21
+Added Pin To Net: NetName=PD1 Pin=JP2-22
+Added Pin To Net: NetName=PD4 Pin=JP2-23
+Added Pin To Net: NetName=PD3 Pin=JP2-24
+Added Pin To Net: NetName=PD6 Pin=JP2-25
+Added Pin To Net: NetName=PD5 Pin=JP2-26
+Added Pin To Net: NetName=PB3 Pin=JP2-27
+Added Pin To Net: NetName=PD7 Pin=JP2-28
+Added Pin To Net: NetName=PB7 Pin=JP2-29
+Added Pin To Net: NetName=PB5 Pin=JP2-30
+Added Pin To Net: NetName=PE0 Pin=JP2-31
+Added Pin To Net: NetName=PB9 Pin=JP2-32
+Added Pin To Net: NetName=PE6 Pin=JP2-33
+Added Pin To Net: NetName=PE1 Pin=JP2-34
+Added Pin To Net: NetName=PF3 Pin=JP2-35
+Added Pin To Net: NetName=PC13 Pin=JP2-36
+Added Pin To Net: NetName=PF5 Pin=JP2-37
+Added Pin To Net: NetName=PF4 Pin=JP2-38
+Added Pin To Net: NetName=PF8 Pin=JP2-39
+Added Pin To Net: NetName=PF7 Pin=JP2-40
+Added Pin To Net: NetName=PA4 Pin=JP4-1
+Added Pin To Net: NetName=PA3 Pin=JP4-2
+Added Pin To Net: NetName=PC3 Pin=JP4-3
+Added Pin To Net: NetName=PC2 Pin=JP4-4
+Added Pin To Net: NetName=PC1 Pin=JP4-5
+Added Pin To Net: NetName=PC0 Pin=JP4-6
+Added Pin To Net: NetName=VREFP Pin=JP4-7
+Added Pin To Net: NetName=PG2 Pin=JP4-8
+Added Pin To Net: NetName=GND Pin=JP5-1
+Added Pin To Net: NetName=GND Pin=JP5-2
+Added Pin To Net: NetName=PE4 Pin=JP5-3
+Added Pin To Net: NetName=LED_R Pin=JP5-4
+Added Pin To Net: NetName=KEY1 Pin=JP5-5
+Added Pin To Net: NetName=LED_G Pin=JP5-6
+Added Pin To Net: NetName=PF9 Pin=JP5-7
+Added Pin To Net: NetName=PF10 Pin=JP5-8
+Added Pin To Net: NetName=KEY1 Pin=U3-1
+Added Pin To Net: NetName=LED_G Pin=U3-2
+Added Pin To Net: NetName=LED_R Pin=U3-4
+Added Member To Class: ClassName=Main Member=Component R14 0

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=USB_N Pin=U7-5
+Removed Pin From Net: NetName=USB_P Pin=U7-6
+Added Component: Designator=R56(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R57(R 0402_L)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_P Pin=R56-1
+Added Pin To Net: NetName=USB_N Pin=R57-1
+Added Pin To Net: NetName=NetR56_2 Pin=R56-2
+Added Pin To Net: NetName=NetR56_2 Pin=U7-6
+Added Net: Name=NetR56_2
+Added Pin To Net: NetName=NetR57_2 Pin=R57-2
+Added Pin To Net: NetName=NetR57_2 Pin=U7-5
+Added Net: Name=NetR57_2
+Added Member To Class: ClassName=PD_USB Member=Component R56 22
+Added Member To Class: ClassName=PD_USB Member=Component R57 22

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_N Pin=U7-5
+Removed Pin From Net: NetName=USB_P Pin=U7-6
+Change Net Name : Old Net Name=USB_N New Net Name=USB_DEBUG_N
+Change Net Name : Old Net Name=USB_P New Net Name=USB_DEBUG_P
+Added Pin To Net: NetName=USB_N Pin=U7-5
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=U7-6
+Added Net: Name=USB_P

@@ -1,0 +1,99 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LED 0603B New Footprint=LED
+Change Component Footprint: Designator=LED2 Old Footprint=LED 0603B New Footprint=LED
+Change Component Footprint: Designator=LED3 Old Footprint=LED 0603B New Footprint=LED
+Added Component: Designator=LED4(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED)
+Add component (AddParameter): Name = "主类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=LED2 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=LED1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=3V3 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=3V3 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=VCC_DP_IN Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Member To Class: ClassName=Debug Member=Component LED4 红色
+Added Member To Class: ClassName=Debug Member=Component LED5 绿色
+Added Member To Class: ClassName=Debug Member=Component LED6 绿色
+Added Member To Class: ClassName=Debug Member=Component LED7 绿色
+Added Member To Class: ClassName=Debug Member=Component LED8 绿色
+Added Member To Class: ClassName=PD_USB Member=Component LED9 红色

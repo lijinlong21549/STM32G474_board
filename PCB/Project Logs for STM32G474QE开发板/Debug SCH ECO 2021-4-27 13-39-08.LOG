@@ -1,0 +1,198 @@
+Removed Parameter A/D Converter:2x12-bit (10 Channel) from Part U5
+Removed Parameter A/D Converter:2x12-bit (10 Channel) from Part U5
+Removed Parameter BOM名称:4P接插件 from Part JP3
+Removed Parameter BOM名称:测试点 from Part TP1
+Removed Parameter BOM名称:测试点 from Part TP2
+Removed Parameter BOM名称:测试点 from Part TP3
+Removed Parameter BOM名称:测试点 from Part TP4
+Removed Parameter BOM名称:贴片保险丝 from Part F1
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U5
+Removed Parameter ComponentLink1Description:Manufacturer URL from Part U5
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U5
+Removed Parameter ComponentLink1URL:http://www.st.com/web/en/home.html from Part U5
+Removed Parameter ComponentLink2Description:Datasheet from Part U5
+Removed Parameter ComponentLink2Description:Datasheet from Part U5
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf from Part U5
+Removed Parameter ComponentLink2URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf from Part U5
+Removed Parameter ComponentLink3Description:Package Specification from Part U5
+Removed Parameter ComponentLink3Description:Package Specification from Part U5
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf from Part U5
+Removed Parameter ComponentLink3URL:http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf from Part U5
+Removed Parameter Core:ARM Cortex-M3 from Part U5
+Removed Parameter Core:ARM Cortex-M3 from Part U5
+Removed Parameter DatasheetVersion:Rev. 16 from Part U5
+Removed Parameter DatasheetVersion:Rev. 16 from Part U5
+Removed Parameter FLASH Size (Prog) (kB):128 from Part U5
+Removed Parameter FLASH Size (Prog) (kB):128 from Part U5
+Removed Parameter I/Os (High Current):37 from Part U5
+Removed Parameter I/Os (High Current):37 from Part U5
+Removed Parameter Internal RAM Size (kB):20 from Part U5
+Removed Parameter Internal RAM Size (kB):20 from Part U5
+Removed Parameter Mounting Technology:Surface Mount from Part U5
+Removed Parameter Mounting Technology:Surface Mount from Part U5
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):72 from Part U5
+Removed Parameter Operating Frequency(F) (Processor speed) (MHz):72 from Part U5
+Removed Parameter PackageDescription:48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch from Part U5
+Removed Parameter PackageDescription:48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch from Part U5
+Removed Parameter PackageReference:LQFP48 from Part U5
+Removed Parameter PackageReference:LQFP48 from Part U5
+Removed Parameter PackageVersion:Rev. 6, 06/2013 from Part U5
+Removed Parameter PackageVersion:Rev. 6, 06/2013 from Part U5
+Removed Parameter Packing:Tray from Part U5
+Removed Parameter Packing:Tray from Part U5
+Removed Parameter PartNumber:STM32F103CBT6 from Part U5
+Removed Parameter PartNumber:STM32F103CBT6 from Part U5
+Removed Parameter Supplier 1:Digi-Key from Part U5
+Removed Parameter Supplier 1:Digi-Key from Part U5
+Removed Parameter Supplier 2:Farnell from Part U5
+Removed Parameter Supplier 2:Farnell from Part U5
+Removed Parameter Supplier 3:Newark from Part U5
+Removed Parameter Supplier 3:Newark from Part U5
+Removed Parameter Supplier 4:Newark from Part U5
+Removed Parameter Supplier 4:Newark from Part U5
+Removed Parameter Supplier 5:Mouser from Part U5
+Removed Parameter Supplier 5:Mouser from Part U5
+Removed Parameter Supplier Part Number 1:497-6288-ND from Part U5
+Removed Parameter Supplier Part Number 1:497-6288-ND from Part U5
+Removed Parameter Supplier Part Number 2:1606327 from Part U5
+Removed Parameter Supplier Part Number 2:1606327 from Part U5
+Removed Parameter Supplier Part Number 3:11N8296 from Part U5
+Removed Parameter Supplier Part Number 3:11N8296 from Part U5
+Removed Parameter Supplier Part Number 4:57P1214 from Part U5
+Removed Parameter Supplier Part Number 4:57P1214 from Part U5
+Removed Parameter Supplier Part Number 5:511-STM32F103CBT6 from Part U5
+Removed Parameter Supplier Part Number 5:511-STM32F103CBT6 from Part U5
+Removed Parameter Supply Voltage(Vcc) min (V):2 from Part U5
+Removed Parameter Supply Voltage(Vcc) min (V):2 from Part U5
+Removed Parameter 学习资源:www.ooocke.com from Part F1
+Removed Parameter 学习资源:www.ooocke.com from Part JP3
+Removed Parameter 学习资源:www.ooocke.com from Part TP1
+Removed Parameter 学习资源:www.ooocke.com from Part TP2
+Removed Parameter 学习资源:www.ooocke.com from Part TP3
+Removed Parameter 学习资源:www.ooocke.com from Part TP4
+Removed Parameter 版权归属:源创客 from Part F1
+Removed Parameter 版权归属:源创客 from Part JP3
+Removed Parameter 版权归属:源创客 from Part TP1
+Removed Parameter 版权归属:源创客 from Part TP2
+Removed Parameter 版权归属:源创客 from Part TP3
+Removed Parameter 版权归属:源创客 from Part TP4
+Added Parameter 主类型= to Part F1
+Added Parameter 主类型= to Part JP3
+Added Parameter 主类型= to Part TP1
+Added Parameter 主类型= to Part TP2
+Added Parameter 主类型= to Part TP3
+Added Parameter 主类型= to Part TP4
+Added Parameter 主类型= to Part U5
+Added Parameter 主类型= to Part U5
+Added Parameter 主类型= to Part USB1
+Added Parameter 主类型= to Part Y1
+Added Parameter 值/型号= to Part F1
+Added Parameter 值/型号= to Part JP3
+Added Parameter 值/型号= to Part TP1
+Added Parameter 值/型号= to Part TP2
+Added Parameter 值/型号= to Part TP3
+Added Parameter 值/型号= to Part TP4
+Added Parameter 值/型号= to Part U5
+Added Parameter 值/型号= to Part U5
+Added Parameter 值/型号= to Part USB1
+Added Parameter 值/型号= to Part Y1
+Added Parameter 值精度= to Part F1
+Added Parameter 值精度= to Part JP3
+Added Parameter 值精度= to Part TP1
+Added Parameter 值精度= to Part TP2
+Added Parameter 值精度= to Part TP3
+Added Parameter 值精度= to Part TP4
+Added Parameter 值精度= to Part U5
+Added Parameter 值精度= to Part U5
+Added Parameter 值精度= to Part USB1
+Added Parameter 值精度= to Part Y1
+Added Parameter 元件封装= to Part F1
+Added Parameter 元件封装= to Part JP3
+Added Parameter 元件封装= to Part TP1
+Added Parameter 元件封装= to Part TP2
+Added Parameter 元件封装= to Part TP3
+Added Parameter 元件封装= to Part TP4
+Added Parameter 元件封装= to Part U5
+Added Parameter 元件封装= to Part U5
+Added Parameter 元件封装= to Part USB1
+Added Parameter 元件封装= to Part Y1
+Added Parameter 具体类型= to Part F1
+Added Parameter 具体类型= to Part JP3
+Added Parameter 具体类型= to Part TP1
+Added Parameter 具体类型= to Part TP2
+Added Parameter 具体类型= to Part TP3
+Added Parameter 具体类型= to Part TP4
+Added Parameter 具体类型= to Part U5
+Added Parameter 具体类型= to Part U5
+Added Parameter 具体类型= to Part USB1
+Added Parameter 具体类型= to Part Y1
+Added Parameter 封装类型= to Part F1
+Added Parameter 封装类型= to Part JP3
+Added Parameter 封装类型= to Part TP1
+Added Parameter 封装类型= to Part TP2
+Added Parameter 封装类型= to Part TP3
+Added Parameter 封装类型= to Part TP4
+Added Parameter 封装类型= to Part U5
+Added Parameter 封装类型= to Part U5
+Added Parameter 封装类型= to Part USB1
+Added Parameter 封装类型= to Part Y1
+Added Parameter 温度漂移= to Part F1
+Added Parameter 温度漂移= to Part JP3
+Added Parameter 温度漂移= to Part TP1
+Added Parameter 温度漂移= to Part TP2
+Added Parameter 温度漂移= to Part TP3
+Added Parameter 温度漂移= to Part TP4
+Added Parameter 温度漂移= to Part U5
+Added Parameter 温度漂移= to Part U5
+Added Parameter 温度漂移= to Part USB1
+Added Parameter 温度漂移= to Part Y1
+Added Parameter 温度范围= to Part F1
+Added Parameter 温度范围= to Part JP3
+Added Parameter 温度范围= to Part TP1
+Added Parameter 温度范围= to Part TP2
+Added Parameter 温度范围= to Part TP3
+Added Parameter 温度范围= to Part TP4
+Added Parameter 温度范围= to Part U5
+Added Parameter 温度范围= to Part U5
+Added Parameter 温度范围= to Part USB1
+Added Parameter 温度范围= to Part Y1
+Added Parameter 生产商= to Part F1
+Added Parameter 生产商= to Part JP3
+Added Parameter 生产商= to Part TP1
+Added Parameter 生产商= to Part TP2
+Added Parameter 生产商= to Part TP3
+Added Parameter 生产商= to Part TP4
+Added Parameter 生产商= to Part U5
+Added Parameter 生产商= to Part U5
+Added Parameter 生产商= to Part USB1
+Added Parameter 生产商= to Part Y1
+Added Parameter 生产商零件编码= to Part F1
+Added Parameter 生产商零件编码= to Part JP3
+Added Parameter 生产商零件编码= to Part TP1
+Added Parameter 生产商零件编码= to Part TP2
+Added Parameter 生产商零件编码= to Part TP3
+Added Parameter 生产商零件编码= to Part TP4
+Added Parameter 生产商零件编码= to Part U5
+Added Parameter 生产商零件编码= to Part U5
+Added Parameter 生产商零件编码= to Part USB1
+Added Parameter 生产商零件编码= to Part Y1
+Added Parameter 立创编号= to Part F1
+Added Parameter 立创编号= to Part JP3
+Added Parameter 立创编号= to Part TP1
+Added Parameter 立创编号= to Part TP2
+Added Parameter 立创编号= to Part TP3
+Added Parameter 立创编号= to Part TP4
+Added Parameter 立创编号= to Part U5
+Added Parameter 立创编号= to Part U5
+Added Parameter 立创编号= to Part USB1
+Added Parameter 立创编号= to Part Y1
+Added Parameter 类型备注= to Part F1
+Added Parameter 类型备注= to Part JP3
+Added Parameter 类型备注= to Part TP1
+Added Parameter 类型备注= to Part TP2
+Added Parameter 类型备注= to Part TP3
+Added Parameter 类型备注= to Part TP4
+Added Parameter 类型备注= to Part U5
+Added Parameter 类型备注= to Part U5
+Added Parameter 类型备注= to Part USB1
+Added Parameter 类型备注= to Part Y1

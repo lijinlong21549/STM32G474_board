@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=USB_P Pin=R56-1
+Removed Pin From Net: NetName=USB_N Pin=R57-1
+Removed Pin From Net: NetName=USB_PD_P Pin=U7-1
+Removed Pin From Net: NetName=USB_PD_N Pin=U7-2
+Added Pin To Net: NetName=USB_N Pin=R56-1
+Added Pin To Net: NetName=USB_P Pin=R57-1
+Added Pin To Net: NetName=USB_PD_N Pin=U7-1
+Added Pin To Net: NetName=USB_PD_P Pin=U7-2
+Change Net Name : Old Net Name=NetR56_2 New Net Name=USB_R_N
+Change Net Name : Old Net Name=NetR57_2 New Net Name=USB_R_P
+Added Differential Pair: Name=USB_R

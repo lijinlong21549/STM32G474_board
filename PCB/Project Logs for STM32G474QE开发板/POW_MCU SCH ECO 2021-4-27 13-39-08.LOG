@@ -1,0 +1,19 @@
+Removed Parameter Built_By:EMA_UL_Team from Part U3
+Removed Parameter Copyright:Copyright (C) 2018 Accelerated Designs. All rights reserved from Part U3
+Removed Parameter Manufacturer_Part_Number:STM32G474QET6 from Part U3
+Removed Parameter RefDes:RefDes from Part U3
+Removed Parameter SourceLibrary:Updates_to_database_2020-10-19 from Part U3
+Removed Parameter Type:DEV from Part U3
+Removed Parameter Vendor:STMicroelectronics from Part U3
+Added Parameter 主类型= to Part U3
+Added Parameter 值/型号= to Part U3
+Added Parameter 值精度= to Part U3
+Added Parameter 元件封装= to Part U3
+Added Parameter 具体类型= to Part U3
+Added Parameter 封装类型= to Part U3
+Added Parameter 温度漂移= to Part U3
+Added Parameter 温度范围= to Part U3
+Added Parameter 生产商= to Part U3
+Added Parameter 生产商零件编码= to Part U3
+Added Parameter 立创编号= to Part U3
+Added Parameter 类型备注= to Part U3
