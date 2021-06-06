@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=VCC_DP_OUT Pin=C6-2
+Removed Pin From Net: NetName=VCC_DP_OUT Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Pin From Net: NetName=VCC_DP_OUT Pin=U2-10
+Removed Pin From Net: NetName=VCC_DP_OUT Pin=U2-11
+Removed Pin From Net: NetName=VCC_DP_OUT Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-17
+Removed Pin From Net: NetName=GND Pin=U6-0
+Added Component: Designator=D3(BAT54KFILM)
+Add component (AddParameter): Name = "主类型"; Value = "二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值/型号"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "值精度"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "元件封装"; Value = "SOD-523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "具体类型"; Value = "肖特基二极管"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "封装类型"; Value = "贴片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度漂移"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "温度范围"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商"; Value = "ST(意法半导体)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "生产商零件编码"; Value = "BAT54KFILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "立创编号"; Value = "C283259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "类型备注"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_DP_OUT Pin=D3-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C7-2
+Added Pin To Net: NetName=NetC6_2 Pin=D3-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-10
+Added Pin To Net: NetName=NetC6_2 Pin=U2-11
+Added Pin To Net: NetName=NetC6_2 Pin=U2-12
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=POW Member=Component D3 PMEG2010AEB

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html><head><title>Projects Overview</title><style>
+      .descriptionColumn { min-width:550px;}
+      em{color:red;font-weight: bold;}
+      importantLink {font-size:10pt; font-family: "Verdana","sans-serif" color:black;}
+      article{border: 1px solid #828282;margin: 20px 0px 20px 9px;}
+      body{font-family: Verdana;font-size: 10pt; color: black;margin-left: 40px;}
+      .picture{text-align: center}
+      .copyright{text-align: center}
+      h1{text-align: center;font-size: 20pt; font-family: Verdana; color: rgb(51, 102, 255);}
+    </style></head>
+<body>
+
+    <h1>X-NUCLEO-USB-PD Examples for STM32F0xx Series</h1>
+
+    <p class="copyright">Copyright 2018 STMicroelectronics</p>
+
+    <div class="picture">
+      <img alt="" id="_x0000_i1025" src="../_htmresc/st_logo.png" style="border: 0px solid ; width: 104px; height: 77px;">
+    </div>
+
+    <p>The X-CUBE-USB-PD&nbsp;STM32Cube Expansion software comes with a rich set of examples running
+on STMicroelectronics STM32F0 board,&nbsp; provided with
+preconfigured projects for the main supported toolchains.</p>
+
+    
+
+    <p>The examples are classified depending on the STM32Cube level they apply to, and are named as follows:</p>
+
+    <ul>
+      <li id="Applications"><b>Applications</b>
+intends to demonstrate the product performance and how to use the
+different Middleware stacks available.&nbsp;</li>
+    </ul>
+
+    <p>The examples are located under&nbsp;Projects\ directory, and all of them have the same structure:</p>
+
+    <ul>
+      <li>\Inc folder that contains all header files.</li>
+      <li>\Src folder for the sources code.</li>
+      <li>\EWARM, \MDK-ARM, \SW4STM32 folders contain the preconfigured project for each toolchain.</li>
+      <li>readme.txt describing the example behavior and the environment required to run the example.</li>
+    </ul>
+
+    <p>To run the example, you have to do the following:</p>
+
+    <ul>
+      <li>Open the example using your preferred toolchain.</li>
+      <li>Rebuild all files and load the image into target memory.</li>
+      <li>Run the example by following the readme.txt instructions.</li>
+      <li>
+        <i><u>Note</u>:
+refer to section "Development Toolchains and Compilers" and "Supported
+Devices and EVAL boards" of the Firmware package release notes to know
+about the SW/HW environment used for the Firmware development and
+validation. The correct operation of the provided examples is not
+guaranteed on some environments, for example when using different
+compiler or board versions.</i>
+      </li>
+    </ul>
+
+    <p>The
+provided examples can be tailored to run on any compatible hardware;
+user simply need to update the BSP drivers for his board, if it has the
+same hardware functions (LED, LCD display, pushbuttons...etc.). The BSP
+is based on a modular architecture that allows it to be ported easily
+to any hardware by just implementing the low level routines.</p>
+
+    <p>The table below contains the list of examples provided within&nbsp;X-CUBE-USB-PD&nbsp;STM32Cube Expansion software package.</p>
+
+    <p id="STM32F0xxImportantLink">
+      </p><div>Reference materials available on&nbsp;<a href="www.st.com/en/embedded-software/stm32cube-expansion-software.html" target="_blank">www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software-expansion.html</a></div>
+      <ul><li><a href="http://www.st.com/st-web-ui/static/active/en/resource/technical/document/user_manual/DM00122015.pdf" target="_blank">UM1785</a>: Description of STM32F0xx HAL drivers.</li>
+        <li><a href="http://www.st.com/st-web-ui/static/active/en/resource/technical/document/user_manual/DM00105262.pdf" target="_blank">UM1722</a>: Developing Applications on STM32Cube with RTOS.</li><br></ul>
+        
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="text-align: center; color: rgb(253, 253, 253); background-color: rgb(72, 171, 207); font-weight: bold;">Level</td>
+<td style="text-align: center; color: rgb(253, 253, 253); background-color: rgb(72, 171, 207); font-weight: bold;">Module Name</td>
+<td style="text-align: center; color: rgb(253, 253, 253); background-color: rgb(72, 171, 207); font-weight: bold;">Project Name</td>
+<td style="text-align: center; color: rgb(253, 253, 253); background-color: rgb(72, 171, 207); font-weight: bold;">Description</td>
+<td style="color: rgb(253, 253, 253); background-color: rgb(72, 171, 207); font-weight: bold;">STM32F072RB-Nucleo</td>
+</tr>
+<tr>
+<td style="background-color: rgb(72, 171, 207); color: white; text-align: center;" colspan="1" rowspan="11">Applications</td>
+<td style="color: white; text-align: center; background-color: rgb(72, 171, 207);" colspan="1" rowspan="10">USBPD<span lang="fr"><font face="Segoe UI" size="2"><br></font></span></td>
+</tr>
+<tr>
+<td>EVAL_FUSB307_DRP</td>
+<td>This application is a part of the USB Power Delivery package using STM32Cube firmware. It describes how to use USB Power Delivery (USB-PD) Dual-Role Power (DRP) application compliant to&nbsp;USB Power Delivery Specification revision 3.0, running on STM32F072 devices, in case of TCPM/TCPC architecture.</td>
+<td style="text-align: center;"><font color="green" size="5">X</font></td>
+</tr>
+<tr>
+<td style="text-align: center; color: white; background-color: rgb(72, 171, 207);" colspan="3" rowspan="1"><b>Total number of applications: 1</b></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>OnSemi FUSB307 Component Driver</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <link rel="stylesheet" href="_htmresc/mini-st.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div class="row">
+<div class="col-sm-12 col-lg-4">
+<div class="card fluid">
+<div class="sectione dark">
+<center>
+<h1 id="release-notes-for-onsemi-fusb307-component-driver"><small>Release Notes for</small> OnSemi FUSB307 Component Driver</h1>
+<p>Copyright © 2018 STMicroelectronics<br />
+</p>
+<a href="https://www.st.com" class="logo"><img src="_htmresc/st_logo.png" alt="ST logo" /></a>
+</center>
+</div>
+</div>
+<h1 id="license">License</h1>
+<p>This software component is licensed by ST under BSD 3-Clause license, the “License”; You may not use this component except in compliance with the License. You may obtain a copy of the License at:</p>
+<p><a href="http://www.opensource.org/licenses/BSD-3-Clause">http://www.opensource.org/licenses/BSD-3-Clause</a></p>
+<h1 id="purpose">Purpose</h1>
+<p>This driver is used in a STM32 USB-PD TCPM application. It allows to communicate with OnSemi FUSB307 TCPC component</p>
+<p>This application has been tested on ON-FUSB3-STM32 board available here:</p>
+<p><a href="https://www.st.com/en/evaluation-tools/on-fusb3-stm32.html">https://www.st.com/en/evaluation-tools/on-fusb3-stm32.html</a></p>
+</div>
+<section id="update-history" class="col-sm-12 col-lg-8">
+<h1>Update History</h1>
+<div class="collapse">
+<input type="checkbox" id="collapse-section2" checked aria-hidden="true"> <label for="collapse-section2" aria-hidden="true">V3.0.0 / 15-Apr.-2020</label>
+<div>
+<h2 id="main-changes">Main Changes</h2>
+<h3 id="maintenance-release">Maintenance release</h3>
+<h2 id="contents">Contents</h2>
+<table>
+<caption>Fixed bugs list</caption>
+<thead>
+<tr class="header">
+<th>Headline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Fix an issue during PRS failed (no more detach)</td>
+</tr>
+<tr class="even">
+<td>Enable correctly all the SOP*</td>
+</tr>
+<tr class="odd">
+<td>Few updates to be aligned with CORE v3.0.0 and memory size used for debug traces</td>
+</tr>
+</tbody>
+</table>
+<h2 id="known-limitations">Known Limitations</h2>
+<p>Outstanding bugs list : None</p>
+<p>Requirements not met or planned in a forthcoming release : None</p>
+<h2 id="development-toolchains-and-compilers">Development Toolchains and Compilers</h2>
+<ul>
+<li>IAR Embedded Workbench for ARM (EWARM) toolchain V8.32.3</li>
+<li>RealView Microcontroller Development Kit (MDK-ARM) toolchain V5.27.1.0</li>
+<li>STM32CubeIDE toolchain V1.2.1</li>
+</ul>
+<h2 id="supported-devices-and-boards">Supported Devices and boards</h2>
+<p>ON-FUSB3-STM32 board</p>
+<h2 id="backward-compatibility">Backward compatibility</h2>
+<p>Compatibility with USBPD stack from v3.0.0</p>
+<h2 id="dependencies">Dependencies</h2>
+</div>
+</div>
+<div class="collapse">
+<input type="checkbox" id="collapse-section2" aria-hidden="true"> <label for="collapse-section2" aria-hidden="true">V2.0.1 / 02-Apr.-2020</label>
+<div>
+<h2 id="main-changes-1">Main Changes</h2>
+<h3 id="maintenance-release-1">Maintenance release</h3>
+<h2 id="contents-1">Contents</h2>
+<table>
+<caption>Fixed bugs list</caption>
+<thead>
+<tr class="header">
+<th>Headline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Include usbpd_timeserver in case of NO_RTOS configuration</td>
+</tr>
+<tr class="even">
+<td>Implement possibility to change voltage output to 12V</td>
+</tr>
+</tbody>
+</table>
+<h2 id="known-limitations-1">Known Limitations</h2>
+<p>Outstanding bugs list : None</p>
+<p>Requirements not met or planned in a forthcoming release : None</p>
+<h2 id="development-toolchains-and-compilers-1">Development Toolchains and Compilers</h2>
+<ul>
+<li>IAR Embedded Workbench for ARM (EWARM) toolchain V8.32.3</li>
+<li>RealView Microcontroller Development Kit (MDK-ARM) toolchain V5.27.1.0</li>
+<li>STM32CubeIDE toolchain V1.2.1</li>
+</ul>
+<h2 id="supported-devices-and-boards-1">Supported Devices and boards</h2>
+<p>ON-FUSB3-STM32 board</p>
+<h2 id="backward-compatibility-1">Backward compatibility</h2>
+<p>No compatibility break with previous version</p>
+<h2 id="dependencies-1">Dependencies</h2>
+</div>
+</div>
+<div class="collapse">
+<input type="checkbox" id="collapse-section2" aria-hidden="true"> <label for="collapse-section2" aria-hidden="true">V2.0.0 / 21-Feb.-2020</label>
+<div>
+<h2 id="main-changes-2">Main Changes</h2>
+<h3 id="maintenance-release-2">Maintenance release</h3>
+<h2 id="contents-2">Contents</h2>
+<table>
+<caption>Fixed bugs list</caption>
+<thead>
+<tr class="header">
+<th>Headline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Release (BSP Components OnSemi FUSB307 driver version delivered within X-CUBE USB-PD Expansion package v3.0.0).</td>
+</tr>
+<tr class="even">
+<td>Change vSafe0V from 800mV to 700mV</td>
+</tr>
+<tr class="odd">
+<td>Fix hard issue detected on MQP linked to detach during hard reset procedure</td>
+</tr>
+<tr class="even">
+<td>Update Vendor defines</td>
+</tr>
+<tr class="odd">
+<td>Need to enable VCONN quicker</td>
+</tr>
+<tr class="even">
+<td>Disable RX during hard reset sequence failed with FUSB307</td>
+</tr>
+<tr class="odd">
+<td>Add VBUS debouce in component instead of stack</td>
+</tr>
+<tr class="even">
+<td>Add Specification in Msg_Header API</td>
+</tr>
+<tr class="odd">
+<td>Add 2 interfaces for enable and disable RX</td>
+</tr>
+<tr class="even">
+<td>Change fusb305_tcpc_set_rx_state interface</td>
+</tr>
+</tbody>
+</table>
+<h2 id="known-limitations-2">Known Limitations</h2>
+<p>Outstanding bugs list : None</p>
+<p>Requirements not met or planned in a forthcoming release : None</p>
+<h2 id="development-toolchains-and-compilers-2">Development Toolchains and Compilers</h2>
+<ul>
+<li>IAR Embedded Workbench for ARM (EWARM) toolchain V8.32.3</li>
+<li>RealView Microcontroller Development Kit (MDK-ARM) toolchain V5.27.1.0</li>
+<li>STM32CubeIDE toolchain V1.2.1</li>
+</ul>
+<h2 id="supported-devices-and-boards-2">Supported Devices and boards</h2>
+<p>ON-FUSB3-STM32 board</p>
+<h2 id="backward-compatibility-2">Backward compatibility</h2>
+<p>No compatibility break with previous version</p>
+<h2 id="dependencies-2">Dependencies</h2>
+</div>
+</div>
+<div class="collapse">
+<input type="checkbox" id="collapse-section1" aria-hidden="true"> <label for="collapse-section1" aria-hidden="true">V1.0.0 / 05-April-2018</label>
+<div>
+<h2 id="main-changes-3">Main Changes</h2>
+<h3 id="maintenance-release-3">Maintenance release</h3>
+<h2 id="contents-3">Contents</h2>
+<table>
+<caption>Fixed bugs list</caption>
+<thead>
+<tr class="header">
+<th>Headline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>First official release (BSP Components OnSemi FUSB307 driver version delivered within X-CUBE USB-PD Expansion package v2.1.0).</td>
+</tr>
+</tbody>
+</table>
+<h2 id="known-limitations-3">Known Limitations</h2>
+<p>Outstanding bugs list : None</p>
+<p>Requirements not met or planned in a forthcoming release : None</p>
+<h2 id="development-toolchains-and-compilers-3">Development Toolchains and Compilers</h2>
+<ul>
+<li>IAR Embedded Workbench for ARM (EWARM) toolchain V8.20.2</li>
+<li>RealView Microcontroller Development Kit (MDK-ARM) toolchain V5.25</li>
+<li>System Workbench STM32 (SW4STM32) toolchain V2.7.2</li>
+</ul>
+<h2 id="supported-devices-and-boards-3">Supported Devices and boards</h2>
+<p>All STM32xx devices implementing a USBPD application able to communicate with CubeMonitor_UCPD</p>
+<h2 id="backward-compatibility-3">Backward compatibility</h2>
+<p>No compatibility break with previous version</p>
+<h2 id="dependencies-3">Dependencies</h2>
+</div>
+</div>
+</section>
+</div>
+<footer class="sticky">
+<p>For complete documentation on STM32,visit: [<a href="http://www.st.com">www.st.com/stm32</a>]</p>
+This release note uses up to date web standards and, for this reason, should not be opened with Internet Explorer but preferably with popular browsers such as Google Chrome, Mozilla Firefox, Opera or Microsoft Edge.
+</footer>
+</body>
+</html>

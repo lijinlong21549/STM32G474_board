@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=JTMS Pin=U3-99
+Added Pin To Net: NetName=JTMS Pin=U3-96
+Added Pin To Net: NetName=PA15 Pin=JP2-16
+Added Pin To Net: NetName=PA15 Pin=U3-99
+Added Net: Name=PA15
